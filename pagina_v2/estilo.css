@@ -1,0 +1,18 @@
+body {
+    background-color: lightblue;
+}
+header {
+    background-color: yellow;
+    padding: 20px;
+    margin: 10px;
+    color: red;
+}
+
+#nombre{
+    color: gray;
+    font-size: 46px;
+    font-family: 20px;
+}
+.input-formulario {
+    border: 2px purple dotted;
+}
